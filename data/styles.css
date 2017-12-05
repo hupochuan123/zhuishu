@@ -9,9 +9,9 @@
 }
 .box_1 {
 }
-.ellipse {
-}
 .image {
+}
+.button {
 }
 ._一级标题 {
   font-family:'ArialMT', 'Arial';
@@ -61,19 +61,11 @@
 ._文本段落 {
   text-align:left;
 }
-._流程形状 {
-}
 .line {
 }
-.icon {
-}
-._文本段落1 {
-  font-family:'IaxureTBG';
-  font-weight:400;
-  font-style:normal;
-  font-size:18px;
-  text-align:center;
+.table_cell {
 }
 ._图片 {
-  color:#000000;
+}
+.ellipse {
 }
