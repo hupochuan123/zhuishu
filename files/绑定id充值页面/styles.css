@@ -2918,8 +2918,8 @@
   position:absolute;
   left:0px;
   top:0px;
-  width:294px;
-  height:141px;
+  width:325px;
+  height:75px;
   background:inherit;
   background-color:rgba(255, 255, 255, 0);
   border:none;
@@ -2928,22 +2928,24 @@
   -webkit-box-shadow:none;
   box-shadow:none;
   font-family:'PingFangSC-Semibold', 'PingFang SC Semibold', 'PingFang SC';
+  font-weight:650;
   font-style:normal;
 }
 #u173 {
   position:absolute;
-  left:2336px;
-  top:3974px;
-  width:294px;
-  height:141px;
+  left:2307px;
+  top:3990px;
+  width:325px;
+  height:75px;
   font-family:'PingFangSC-Semibold', 'PingFang SC Semibold', 'PingFang SC';
+  font-weight:650;
   font-style:normal;
 }
 #u174 {
   position:absolute;
   left:0px;
   top:0px;
-  width:294px;
+  width:325px;
   white-space:nowrap;
 }
 #u175_div {

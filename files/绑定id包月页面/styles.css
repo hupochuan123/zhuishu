@@ -2854,38 +2854,6 @@
   position:absolute;
   left:0px;
   top:0px;
-  width:313px;
-  height:116px;
-  background:inherit;
-  background-color:rgba(255, 255, 255, 0);
-  border:none;
-  border-radius:0px;
-  -moz-box-shadow:none;
-  -webkit-box-shadow:none;
-  box-shadow:none;
-  font-family:'PingFangSC-Semibold', 'PingFang SC Semibold', 'PingFang SC';
-  font-style:normal;
-}
-#u340 {
-  position:absolute;
-  left:2654px;
-  top:3013px;
-  width:313px;
-  height:116px;
-  font-family:'PingFangSC-Semibold', 'PingFang SC Semibold', 'PingFang SC';
-  font-style:normal;
-}
-#u341 {
-  position:absolute;
-  left:0px;
-  top:0px;
-  width:313px;
-  white-space:nowrap;
-}
-#u342_div {
-  position:absolute;
-  left:0px;
-  top:0px;
   width:563px;
   height:33px;
   background:inherit;
@@ -2900,7 +2868,7 @@
   font-style:normal;
   color:#0099FF;
 }
-#u342 {
+#u340 {
   position:absolute;
   left:121px;
   top:3407px;
@@ -2911,14 +2879,14 @@
   font-style:normal;
   color:#0099FF;
 }
-#u343 {
+#u341 {
   position:absolute;
   left:0px;
   top:0px;
   width:563px;
   word-wrap:break-word;
 }
-#u344_div {
+#u342_div {
   position:absolute;
   left:0px;
   top:0px;
@@ -2935,7 +2903,7 @@
   font-weight:700;
   font-style:normal;
 }
-#u344 {
+#u342 {
   position:absolute;
   left:191px;
   top:3510px;
@@ -2945,10 +2913,44 @@
   font-weight:700;
   font-style:normal;
 }
-#u345 {
+#u343 {
   position:absolute;
   left:0px;
   top:0px;
   width:718px;
+  white-space:nowrap;
+}
+#u344_div {
+  position:absolute;
+  left:0px;
+  top:0px;
+  width:325px;
+  height:75px;
+  background:inherit;
+  background-color:rgba(255, 255, 255, 0);
+  border:none;
+  border-radius:0px;
+  -moz-box-shadow:none;
+  -webkit-box-shadow:none;
+  box-shadow:none;
+  font-family:'PingFangSC-Semibold', 'PingFang SC Semibold', 'PingFang SC';
+  font-weight:650;
+  font-style:normal;
+}
+#u344 {
+  position:absolute;
+  left:2636px;
+  top:3010px;
+  width:325px;
+  height:75px;
+  font-family:'PingFangSC-Semibold', 'PingFang SC Semibold', 'PingFang SC';
+  font-weight:650;
+  font-style:normal;
+}
+#u345 {
+  position:absolute;
+  left:0px;
+  top:0px;
+  width:325px;
   white-space:nowrap;
 }
