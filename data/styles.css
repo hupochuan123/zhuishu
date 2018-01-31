@@ -15,6 +15,9 @@
 }
 .button {
 }
+.primary_button {
+  color:#FFFFFF;
+}
 ._一级标题 {
   font-family:'ArialMT', 'Arial';
   font-weight:bold;
@@ -65,6 +68,8 @@
 }
 .line {
 }
+.arrow {
+}
 .text_field {
   color:#000000;
   text-align:left;
@@ -75,6 +80,12 @@
 ._流程形状 {
 }
 .table_cell {
+}
+.sticky_1 {
+  text-align:left;
+}
+.sticky_2 {
+  text-align:left;
 }
 ._图片 {
 }
