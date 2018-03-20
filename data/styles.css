@@ -9,11 +9,22 @@
 }
 .box_1 {
 }
+._形状 {
+}
 .image {
 }
 .placeholder {
 }
 .button {
+}
+.flat_button {
+  font-family:'Roboto';
+  font-weight:500;
+  font-style:normal;
+  font-size:14px;
+  color:#2196F3;
+}
+.shape {
 }
 .primary_button {
   color:#FFFFFF;
@@ -68,9 +79,15 @@
 }
 .line {
 }
+.icon {
+}
 .arrow {
 }
 .text_field {
+  color:#000000;
+  text-align:left;
+}
+.text_area {
   color:#000000;
   text-align:left;
 }
@@ -99,4 +116,43 @@
 }
 .html_button {
   text-align:center;
+}
+.button_active {
+  font-family:'ArialMT', 'Arial';
+  font-weight:normal;
+  font-style:normal;
+  font-size:12px;
+  color:#0000FF;
+  text-align:center;
+}
+._形状1 {
+  font-family:'ArialMT', 'Arial';
+  font-weight:normal;
+  font-style:normal;
+  font-size:12px;
+  color:#666666;
+}
+._图片1 {
+  font-family:'ArialMT', 'Arial';
+  font-weight:normal;
+  font-style:normal;
+  font-size:13px;
+  color:#000000;
+}
+._文本段落1 {
+  font-family:'ArialMT', 'Arial';
+  font-weight:normal;
+  font-style:normal;
+  font-size:13px;
+  color:#000000;
+  text-align:left;
+}
+._形状2 {
+  font-family:'ArialMT', 'Arial';
+  font-weight:normal;
+  font-style:normal;
+  font-size:13px;
+  color:#000000;
+}
+.box_2 {
 }
